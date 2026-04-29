@@ -28,6 +28,8 @@ Docker • AWS • gRPC • Protocol Buffers
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,nodejs,nextjs,mysql,postgres,sqlite,mongodb,supabase,git,github,vscode,idea,linux&perline=6" />
 </p>
 
+<br></br>
+
 <p align="center">
-  <img src="/boat house nord.gif" width="1000" height="400"/>
+  <img src="/teddybear_by_orange_magik-d9syene_gif%20(1000%C3%97500).gif" width="1000" height="400"/>
 </p>
