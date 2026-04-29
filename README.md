@@ -31,5 +31,5 @@ Docker • AWS • gRPC • Protocol Buffers
 <br></br>
 
 <p align="center">
-  <img src="/teddybear_by_orange_magik-d9syene_gif%20(1000%C3%97500).gif" width="1000" height="400"/>
+  <img src="/teddybear_by_orange_magik-d9syene_gif%20(1000%C3%97500).gif" width="1000" height="300"/>
 </p>
