@@ -34,7 +34,7 @@ Docker • AWS • gRPC • Protocol Buffers
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,nodejs,nextjs,mysql,postgres,sqlite,mongodb,supabase,git,github,vscode,idea,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,nodejs,nextjs,mysql,postgres,sqlite,mongodb,supabase,git,github,vscode,idea,ubuntu&perline=6" />
 </p>
 
 
@@ -44,24 +44,7 @@ Docker • AWS • gRPC • Protocol Buffers
 
 <h2>Statistics</h2>
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <h4>Most Used Languages</h4>
-  <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=bskcfv&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
-    alt="Top Languages"
-  />
-</td>
-<td width="50%" align="center">
-  <h4>GitHub Stats</h4>
-  <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=bskcfv&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-    alt="GitHub Stats"
-  />
-</td>
-</tr>
-</table>
+
 
 <h3>Contribution Streak</h3>
 
