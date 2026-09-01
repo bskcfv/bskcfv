@@ -53,14 +53,6 @@ Docker • AWS • gRPC • Protocol Buffers
   alt="GitHub Streak"
 />
 
-<h3>Contribution Graph</h3>
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bskcfv&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=bskcfv's%20Contribution%20Graph"
-  alt="Activity Graph"
-  width="100%"
-/>
-
 </div>
 
 
