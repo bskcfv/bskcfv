@@ -50,7 +50,7 @@ Docker • AWS • gRPC • Protocol Buffers
 
 
 <img 
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=bskcfv&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=bskcfv&theme=dark&hide_border=true&background=000100&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
   alt="GitHub Streak"
 />
 
